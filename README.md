@@ -12,7 +12,7 @@ ScreenShots
 
 Login Page
 ==
-!['Login Page'](/codetalks/screenShots/login.png?raw=true)
+!['Login Page'](/screenShots/login.png?raw=true)
 
 Record Page
 ==
