@@ -47,7 +47,7 @@ const App = () => {
       :(
         <>
         <Stack.Screen 
-          name="RoomsPage" 
+          name='RoomsPage'
           component={Rooms} 
           options=
               {{

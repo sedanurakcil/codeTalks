@@ -16,11 +16,12 @@ const RoomsDetail=({route})=>{
     const {item}= route.params;
 
     React.useEffect(() => {
+        
         database().ref(`rooms/${item.id}/${item.text}`).on('value', snapshot => {
             const contentData = snapshot.val();
             const parsedData = parseContentData(contentData || {})
             setMessages(parsedData)
-            console.log(setRooms)
+            
         })
     }, [])
 
@@ -35,7 +36,7 @@ const RoomsDetail=({route})=>{
     }
     // content send to database 
     async function sendContent(message){
-        console.log('database gönderme işlemleri başlıyor.')
+        
 
         const userMail = auth().currentUser.email
         try {
