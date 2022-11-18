@@ -16,23 +16,23 @@ Login Page
 
 Record Page
 ==
-!['Record Page'](/codeTalks/screenShots/record.png?raw=true )
+!['Record Page'](/screenShots/record.png?raw=true )
 
 Join Rooms
 ==
-!['Join Rooms'](/codeTalks/screenShots/rooms.png?raw=true)
+!['Join Rooms'](/screenShots/rooms.png?raw=true)
 
 Create Rooms with Modal
 ==
-![' Create Rooms '](/codeTalks/screenShots/rooms2.png?raw=true)
+![' Create Rooms '](/screenShots/rooms2.png?raw=true)
 
 Messages Page
 ==
-!['MessagesPage'](/codeTalks/screenShots/message1.png?raw=true )
+!['MessagesPage'](/screenShots/message1.png?raw=true )
 
 Create Message and Send 
 ==
-!['Messages Page 2'](/codeTalks/screenShots/message2.png?raw=true)
+!['Messages Page 2'](/screenShots/message2.png?raw=true)
 
 ## Beginning 
 Clone this repository on your local machine.
