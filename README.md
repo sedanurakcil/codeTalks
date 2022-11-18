@@ -12,29 +12,27 @@ ScreenShots
 
 Login Page
 ==
-!['Login Page'](codeTalks/screenShots/login.png?raw=true)
+!['Login Page'](/CODETALKS/screenShots/login.png?raw=true)
 
 Record Page
 ==
-!['Alt text'](/codeTalks/screenShots/record.png?raw=true "Record Page")
+!['Record Page'](/codeTalks/screenShots/record.png?raw=true )
 
 Join Rooms
 ==
-!['Alt text'](/codeTalks/screenShots/rooms.png?raw=true " Join Rooms")
+!['Join Rooms'](/codeTalks/screenShots/rooms.png?raw=true)
 
 Create Rooms with Modal
 ==
-!['Alt text'](/codeTalks/screenShots/rooms2.png?raw=true " Create Rooms 
-Window")
+![' Create Rooms '](/codeTalks/screenShots/rooms2.png?raw=true)
 
 Messages Page
 ==
-!['Alt text'](/codeTalks/screenShots/message1.png?raw=true "Messages Page")
+!['MessagesPage'](/codeTalks/screenShots/message1.png?raw=true )
 
 Create Message and Send 
 ==
-!['Alt text'](/codeTalks/screenShots/message2.png?raw=true "Messages Page 2")
-
+!['Messages Page 2'](/codeTalks/screenShots/message2.png?raw=true)
 
 ## Beginning 
 Clone this repository on your local machine.
