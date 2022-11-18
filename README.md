@@ -12,7 +12,7 @@ ScreenShots
 
 Login Page
 ==
-!['Alt text'](/codeTalks/screenShots/login.png?raw=true "Login Page")
+!['Login Page'](codeTalks/screenShots/login.png?raw=true)
 
 Record Page
 ==
